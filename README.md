@@ -10,3 +10,5 @@ Gonna try to fix a bad commit
     git reset HEAD~1 #The '1' is the number of commits u want gone
   - You can also edit the whole commit with your editor:
     git commit --amend 
+
+This is for SSH test.
